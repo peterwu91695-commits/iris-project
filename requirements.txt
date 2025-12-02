@@ -1,0 +1,9 @@
+# Requirements for Iris Machine Learning Project (Exact Versions)
+# Install with: pip install -r requirements.txt --break-system-packages
+# These are the exact versions used when developing this project
+
+pandas==2.3.3
+numpy==2.3.5
+matplotlib==3.10.7
+seaborn==0.13.2
+scikit-learn==1.7.2
